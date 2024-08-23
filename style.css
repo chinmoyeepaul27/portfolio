@@ -60,13 +60,13 @@ h1{
      text-align: center;
 }
 
-/*.loves{
+.loves{
      background-image: url(backgrounds/exp-bg.png);
      background-repeat: no-repeat;
      background-position: right;
      width:100%;
      height:600px;
-}*/
+}
 
 .block{
      box-shadow: 10px 10px 20px gray;
@@ -78,6 +78,9 @@ h1{
 }
 #food{
      border-left: 7px solid orangered;
-     background-image: linear-gradient(45deg,rgb(219, 219, 90),rgb(219, 101, 58))
+     background-image: linear-gradient(45deg,rgb(219, 219, 90),rgb(229, 133, 98))
      
+}
+p{
+     font-weight: 500;
 }
